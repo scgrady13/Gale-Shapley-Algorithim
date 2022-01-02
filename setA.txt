@@ -1,0 +1,10 @@
+Aamir:Abbey, Abbe, Abbi, Abbie, Abigael, Abagael, Abigail, Abigale, Abby, Abagail
+Aaron:Abbie, Abigael, Abbe, Abagail, Abigail, Abbey, Abigale, Abbi, Abby, Abagael
+Abbey:Abbi, Abbey, Abagael, Abigail, Abigael, Abbe, Abagail, Abigale, Abby, Abbie
+Abbie:Abbe, Abigael, Abigail, Abbie, Abbey, Abagail, Abby, Abagael, Abbi, Abigale
+Abbot:Abbey, Abagail, Abigael, Abigail, Abbi, Abbe, Abagael, Abby, Abigale, Abbie
+Abbott:Abigale, Abigael, Abbey, Abagail, Abigail, Abby, Abbe, Abbi, Abagael, Abbie
+Abby:Abbi, Abigail, Abagail, Abbie, Abigael, Abigale, Abby, Abagael, Abbe, Abbey
+Abdel:Abagail, Abbi, Abigale, Abigael, Abigail, Abbie, Abbey, Abbe, Abagael, Abby
+Abdul:Abbe, Abby, Abbie, Abigail, Abagail, Abbey, Abigale, Abbi, Abigael, Abagael
+Abdulkarim:Abbe, Abbie, Abagael, Abby, Abagail, Abbey, Abigale, Abigael, Abigail, Abbi
